@@ -1,5 +1,5 @@
+import { client } from '@/sanity/client';
 import { MetadataRoute } from 'next';
-import { client } from '@/app/sanity/client';
 
 const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] {
   slug,

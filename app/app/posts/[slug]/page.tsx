@@ -1,9 +1,9 @@
 import { PortableText, type SanityDocument } from 'next-sanity';
-import { client, urlFor } from '@/app/sanity/client';
 import Link from 'next/link';
 import Image from 'next/image';
-import { StructuredData } from '@/app/components/general/structured-data';
 import type { Metadata } from 'next';
+import { client, urlFor } from '@/sanity/client';
+import { StructuredData } from '@/components/general/structured-data';
 
 const POST_QUERY = `*[_type == "post" && slug.current == $slug][0]
 {
