@@ -8,6 +8,7 @@ export default defineType({
     defineField({
       name: 'title',
       title: 'Title',
+      description: 'Enter the title of the post',
       type: 'string',
     }),
     defineField({
@@ -45,8 +46,8 @@ export default defineType({
       type: 'datetime',
     }),
     defineField({
-      name: 'body',
-      title: 'Body',
+      name: 'content',
+      title: 'Content',
       type: 'blockContent',
     }),
   ],
