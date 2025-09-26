@@ -1,4 +1,4 @@
-import { ThemeToggle } from '@/components/general/theme-toggle';
+import { ThemeToggle } from '@/app/components/general/theme-toggle';
 import Link from 'next/link';
 
 export function Navigation() {
