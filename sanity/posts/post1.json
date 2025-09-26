@@ -1,0 +1,45 @@
+{
+  "title": "Getting Started with Modern Web Development",
+  "slug": {
+    "current": "getting-started-modern-web-development"
+  },
+  "publishedAt": "2024-01-15T10:00:00.000Z",
+  "content": [
+    {
+      "_type": "block",
+      "_key": "block1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span1",
+          "text": "Modern web development has evolved significantly over the past decade. With the rise of frameworks like React, Vue, and Angular, developers now have powerful tools at their disposal to create dynamic and interactive web applications."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block2",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span2",
+          "text": "Key Technologies to Learn"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span3",
+          "text": "To stay competitive in today's market, developers should focus on learning TypeScript, modern CSS frameworks, and cloud deployment strategies. These skills form the foundation of contemporary web development practices."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "The Future of Artificial Intelligence in Software Development",
+  "slug": {
+    "current": "future-ai-software-development"
+  },
+  "publishedAt": "2024-02-20T14:30:00.000Z",
+  "content": [
+    {
+      "_type": "block",
+      "_key": "block1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span1",
+          "text": "Artificial Intelligence is revolutionizing the way we approach software development. From code generation to automated testing, AI tools are becoming indispensable for modern developers."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block2",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span2",
+          "text": "AI-Powered Development Tools"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span3",
+          "text": "Tools like GitHub Copilot, ChatGPT, and various AI-powered IDEs are changing how we write code. These tools can help with code completion, bug detection, and even architectural decisions."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block4",
+      "style": "blockquote",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span4",
+          "text": "The future belongs to developers who can effectively collaborate with AI, not those who fear it."
+        }
+      ]
+    }
+  ]
+}
