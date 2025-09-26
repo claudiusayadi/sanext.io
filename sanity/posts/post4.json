@@ -1,0 +1,81 @@
+{
+  "title": "Mastering CSS Grid and Flexbox for Modern Layouts",
+  "slug": {
+    "current": "mastering-css-grid-flexbox-modern-layouts"
+  },
+  "publishedAt": "2024-04-05T16:45:00.000Z",
+  "content": [
+    {
+      "_type": "block",
+      "_key": "block1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span1",
+          "text": "CSS Grid and Flexbox have revolutionized how we create layouts on the web. These powerful layout systems provide developers with unprecedented control over positioning and alignment of elements."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block2",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span2",
+          "text": "When to Use Grid vs Flexbox"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span3",
+          "text": "Use CSS Grid for two-dimensional layouts where you need to control both rows and columns. Flexbox is perfect for one-dimensional layouts, whether in a row or column direction."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block4",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span4",
+          "text": "Practical Examples"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span5",
+          "text": "Grid is excellent for page layouts, card grids, and complex dashboard interfaces. Flexbox shines in navigation bars, centering content, and distributing space between elements."
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "block6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "span6",
+          "text": "The best approach is often to combine both: use Grid for the overall page structure and Flexbox for component-level layouts."
+        }
+      ]
+    }
+  ]
+}
